@@ -104,33 +104,33 @@
         },
         {
             "id": 18,
+            "name": " إذاعة الشيخ عبد العزيز سحيم",
+            "url": "https://backup.qurango.net/radio/a_sheim",
+            "img": "https://i.pinimg.com/564x/a7/37/47/a73747375897de4897da372a0fd921a0.jpg"
+        },
+        {
+            "id": 19,
             "name": "إذاعة تلاوات خاشعة-",
             "url": "https://backup.qurango.net/radio/salma",
             "img": "https://ch-tg.com//images/837912.png"
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "إذاعة الرقية الشرعية",
             "url": "https://backup.qurango.net/radio/roqiah",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSSHS6RS1cvQXJnLkwpsQuD6AIih9V_gy_w&usqp=CAU"
         },
         {
-            "id": 20,
+            "id": 21,
             "name": "إذاعة تكبيرات العيد",
             "url": "https://backup.qurango.net/radio/eid",
             "img": "https://m.gomhuriaonline.com/Upload/News/27-6-2023_10_35_59_GomhuriaOnline_1687851359.jpg"
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "المختصر في تفسير القرآن الكريم",
             "url": "https://backup.qurango.net/radio/mukhtasartafsir",
             "img": "https://rquran.org/uploads/topics/15619988315630.png"
-        },
-        {
-            "id": 22,
-            "name": " إذاعة الشيخ عبد العزيز سحيم",
-            "url": "https://backup.qurango.net/radio/a_sheim",
-            "img": "https://i.pinimg.com/564x/a7/37/47/a73747375897de4897da372a0fd921a0.jpg"
         }
     ]
 }
