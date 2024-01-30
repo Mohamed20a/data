@@ -1,0 +1,136 @@
+{
+    "radios": [
+        {
+            "id": 1,
+            "name": "إذاعة الشيخ إبراهيم الأخضر",
+            "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
+            "img": "https://quranmp3.jo1jo.com/ibrahim-al-akhdar.webp"
+        },
+        {
+            "id": 2,
+            "name": "إذاعة الشيخ أبو بكر الشاطري",
+            "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+            "img": "https://www.alwatan.com.sa/uploads/images/2019/05/26/319823.jpg"
+        },
+        {
+            "id": 3,
+            "name": " إذاعة الشيخ صلاح الهاشم",
+            "url": "https://backup.qurango.net/radio/salah_alhashim",
+            "img": "https://i.pinimg.com/564x/e9/22/1b/e9221b5ffd484937dc70c3eabe350c6f.jpg"
+        },
+        {
+            "id": 4,
+            "name": "إذاعة الشيخ صلاح بو خاطر",
+            "url": "https://backup.qurango.net/radio/slaah_bukhatir",
+            "img": "https://pbs.twimg.com/profile_images/1306502829251624960/uHKIJQpq_400x400.jpg"
+        },
+        {
+            "id": 5,
+            "name": " إذاعة الشيخ عبدالباسط عبدالصمد ",
+            "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+            "img": "https://www.shorouknews.com/uploadedimages/Other/original/gdxzdfhgdxzfg.jpg"
+        },
+        {
+            "id": 6,
+            "name": " إذاعة الشيخ فارس عباد",
+            "url": "https://backup.qurango.net/radio/fares_abbad",
+            "img": "https://www.almrsal.com/wp-content/uploads/2016/05/faris-abbad.jpg"
+        },
+        {
+            "id": 7,
+            "name": " إذاعة الشيخ ناصر القطامي",
+            "url": "https://backup.qurango.net/radio/nasser_alqatami",
+            "img": "https://i.pinimg.com/564x/6f/2d/35/6f2d3586e913233f1f03ade207398949.jpg"
+        },
+        {
+            "id": 8,
+            "name": " إذاعة الشيخ نبيل الرفاعي",
+            "url": "https://backup.qurango.net/radio/nabil_al_rifay",
+            "img": "https://ar.assabile.com/media/photo/full_size/nabil-ar-rifai-2712.jpg"
+        },
+        {
+            "id": 9,
+            "name": " إذاعة الشيخ ياسر الدوسري",
+            "url": "https://backup.qurango.net/radio/yasser_aldosari",
+            "img": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg"
+        },
+        {
+            "id": 10,
+            "name": "إذاعة الشيخ ماهر المعيقلي",
+            "url": "https://backup.qurango.net/radio/maher",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Maher_Al_Mueaqly.png"
+        },
+        {
+            "id": 11,
+            "name": " إذاعة الشيخ محمد صديق المنشاوي",
+            "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NpjbHDMPgEF0lUEmNbQ8itLDESYP2ciBj8hJEPYcnKfRC9epACCaeKb3iMctmAezD44&usqp=CAU"
+        },
+        {
+            "id": 12,
+            "name": " إذاعة الشيخ محمود خليل الحصري",
+            "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+            "img": "https://amwcdn.com/featured/157912/conversions/0ba5889cc0-large-featured.webp"
+        },
+        {
+            "id": 13,
+            "name": " إذاعة الشيخ محمود علي البنا",
+            "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+            "img": "https://i.pinimg.com/564x/29/67/b3/2967b3fbc1ce1f5a70874288d34317bf.jpg"
+        },
+        {
+            "id": 14,
+            "name": " إذاعة الشيخ مشاري العفاسي",
+            "url": "https://backup.qurango.net/radio/mishary_alafasi",
+            "img": "https://i1.sndcdn.com/artworks-000019055020-yr9cjc-t500x500.jpg"
+        },
+        {
+            "id": 15,
+            "name": " إذاعة الشيخ أحمد خضر الطرابلسي",
+            "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+            "img": "https://i.pinimg.com/564x/d3/c2/9c/d3c29cc03198c3c15d380af048b2d68b.jpg"
+        },
+        {
+            "id": 16,
+            "name": "إذاعة الشيخ خالد الجليل",
+            "url": "https://backup.qurango.net/radio/khalid_aljileel",
+            "img": "https://i1.sndcdn.com/avatars-ubX3f7yLm5eGyphJ-A4ysyA-t500x500.jpg"
+        },
+        {
+            "id": 17,
+            "name": "إذاعة الشيخ هيثم الجدعاني",
+            "url": "https://backup.qurango.net/radio/hitham_aljadani",
+            "img": "https://tvquran.com/uploads/authors/images/%D9%87%D9%8A%D8%AB%D9%85%20%D8%A7%D9%84%D8%AC%D8%B0%D8%B9%D8%A7%D9%86%D9%8A.jpg"
+        },
+        {
+            "id": 18,
+            "name": "إذاعة تلاوات خاشعة-",
+            "url": "https://backup.qurango.net/radio/salma",
+            "img": "https://ch-tg.com//images/837912.png"
+        },
+        {
+            "id": 19,
+            "name": "إذاعة الرقية الشرعية",
+            "url": "https://backup.qurango.net/radio/roqiah",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSSHS6RS1cvQXJnLkwpsQuD6AIih9V_gy_w&usqp=CAU"
+        },
+        {
+            "id": 20,
+            "name": "إذاعة تكبيرات العيد",
+            "url": "https://backup.qurango.net/radio/eid",
+            "img": "https://m.gomhuriaonline.com/Upload/News/27-6-2023_10_35_59_GomhuriaOnline_1687851359.jpg"
+        },
+        {
+            "id": 21,
+            "name": "المختصر في تفسير القرآن الكريم",
+            "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+            "img": "https://rquran.org/uploads/topics/15619988315630.png"
+        },
+        {
+            "id": 22,
+            "name": " إذاعة الشيخ عبد العزيز سحيم",
+            "url": "https://backup.qurango.net/radio/a_sheim",
+            "img": "https://i.pinimg.com/564x/a7/37/47/a73747375897de4897da372a0fd921a0.jpg"
+        }
+    ]
+}
