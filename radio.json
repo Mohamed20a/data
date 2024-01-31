@@ -4,13 +4,13 @@
             "id": 1,
             "name": "إذاعة الشيخ إبراهيم الأخضر",
             "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
-            "img": "C:/Quran/data/img/id-1.png"
+            "img": "https://i.imgur.com/ZZzLffGt.jpg"
         },
         {
             "id": 2,
             "name": "إذاعة الشيخ أبو بكر الشاطري",
             "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
-            "img": "img/id-2.jpg"
+            "img": "https://i1.sndcdn.com/artworks-000663801097-wb0y31-t200x200.jpg"
         },
         {
             "id": 3,
